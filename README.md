@@ -7,7 +7,7 @@ I'm passionate about building AI systems that make a real impact. Whether it's d
 - 🎓 **[Double Major]** Computer Science & Data Science at Rutgers University
 - 📚 **Interests:** AI/ML, Data Analytics, Web Development, EdTech, AI Ethics
 - 🔭 **Currently learning:** Advanced Machine Learning @ Cornell Tech, Enterprise AI Integration
-- 📧 **Reach me:** vksadhana@outlook.com
+- 📧 **Reach me:** vasanthakumarsadhana@gmail.com
 
 ---
 

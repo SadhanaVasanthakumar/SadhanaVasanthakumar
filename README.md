@@ -2,7 +2,7 @@
 
 ### AI/ML Fellow @ Accenture | Honors CS + Data Science @ Rutgers 🎓
 
-I'm passionate about building AI systems that make a real impact. Whether it's detecting credit card fraud in real-time, automating workflows for nonprofits, or creating AI agents to help volunteers navigate resources—I love tackling challenges at the intersection of technology and purpose.
+I'm a student at Rutgers University studying Computer Science and Data Science. I enjoy working on AI/ML projects, building web applications, and contributing to open source. Currently exploring machine learning, data analytics, and how AI can be applied to solve practical problems.
 
 - 🎓 **[Double Major]** Computer Science & Data Science at Rutgers University
 - 📚 **Interests:** AI/ML, Data Analytics, Web Development, EdTech, AI Ethics

@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hello, I'm Sadhana! 👋
 
-<!--
-**SadhanaVasanthakumar/SadhanaVasanthakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Fellow @ Accenture | Honors CS + Data Science @ Rutgers 🎓
 
-Here are some ideas to get you started:
+I'm passionate about building AI systems that make a real impact. Whether it's detecting credit card fraud in real-time, automating workflows for nonprofits, or creating AI agents to help volunteers navigate resources—I love tackling challenges at the intersection of technology and purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **[Double Major]** Computer Science & Data Science at Rutgers University
+- 📚 **Interests:** AI/ML, Data Analytics, Web Development, EdTech, AI Ethics
+- 🔭 **Currently learning:** Advanced Machine Learning @ Cornell Tech, Enterprise AI Integration
+- 📧 **Reach me:** vksadhana@outlook.com
+
+---
+
+## 🚀 What I'm Up To
+
+- 🤖 **Building AI agents** at JerseySTEM to help volunteers discover resources and contribute meaningfully
+- 📊 **Researching the future of work** at Rutgers' Workplace Revolution & Technology Lab, analyzing AI's impact on labor markets
+- 💻 **Developing web platforms** for many organizations
+- 🎓 **Mentoring & tutoring** fellow students in CS and Math at Rutgers Honors College
+
+---
+
+## 💼 Technical Skills
+
+**Languages:** Python, Java, JavaScript, SQL, C  
+**Frameworks & Tools:** Streamlit, React, Node.js, Flask, Docker, Git  
+**ML/AI:** Machine Learning, Data Analytics, AI Systems Development, Statistical Modeling  
+**Databases & Cloud:** PostgreSQL, MySQL, AWS  
+**Other:** REST APIs, Test-Driven Development, Data Visualization, Algorithm Development
+
+---
+
+## 🎯 Featured Projects
+
+### 🔐 Real-time Credit Card Fraud Detection System
+Built a ML-powered fraud detection system with Streamlit demo as Team Lead for AI4ALL Ignite Fellowship.  
+**Tech:** Python, Machine Learning, Streamlit
+
+### 🤖 AI-Powered Recruitment Enhancement Tool
+Developed working AI prototype achieving significant improvements over existing 50% ATS accuracy rates for PamTen Inc.  
+**Tech:** Python, AI/ML, Natural Language Processing
+
+### 📊 Competitor Monitoring Dashboard
+Designed frontend dashboard solutions for pharmaceutical consulting with automated data visualization.  
+**Tech:** Python, Streamlit, Web Scraping, Data Visualization
+
+### 📚 Social Impact CS Curriculum
+Created educational programming assignments with social impact focus for Rutgers' CS111/CS112 courses.  
+**Tech:** Java, Algorithm Development, Educational Content Design
+
+---
+
+## 🤝 Connect with Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/sadhana-vasanthakumar](https://www.linkedin.com/in/sadhana-vasanthakumar)
+- 📧 **Email:** vksadhana@outlook.com
+- 💬 Always happy to chat!
+---
+
+*Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate.* 🚀

@@ -7,7 +7,7 @@ I'm a student at Rutgers University studying Computer Science and Data Science. 
 - 🎓 **[Double Major]** Computer Science & Data Science at Rutgers University
 - 📚 **Interests:** AI/ML, Data Analytics, Web Development, EdTech, AI Ethics
 - 🔭 **Currently learning:** Advanced Machine Learning @ Cornell Tech, Enterprise AI Integration
-- 📧 **Reach me:** vasanthakumarsadhana@gmail.com
+- 📧 **Reach me:** vksadhana@gmail.com
 
 ---
 
